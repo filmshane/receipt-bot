@@ -1,0 +1,17 @@
+HEADERS = [
+    "TelegramUserId",
+    "TelegramUsername",
+    "ReceiptFileId",
+    "Vendor",
+    "ExpenseDate",
+    "Currency",
+    "Total",
+    "Tax",
+    "Category",
+    "Notes",
+    "Confidence",
+    "NeedsReview",
+    "MessageId",
+    "Over500",
+    "CFOEmailSentAt",
+]
